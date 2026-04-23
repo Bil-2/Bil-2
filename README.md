@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=🚀+Full+Stack+MERN+Developer;☕+DSA+Grinder+in+Java;🤖+AI+%2B+Web+Builder;🌍+Open+Source+Contributor;🔥+Turning+Ideas+Into+Products" alt="Typing SVG" />
 <br/><br/>
- 
+
 <img src="https://komarev.com/ghpvc/?username=Bil-2&label=👁️+Profile+Views&color=00f7ff&style=for-the-badge" />
 <br/><br/>
  
